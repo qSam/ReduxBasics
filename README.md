@@ -1,13 +1,7 @@
-# ReduxSimpleStarter
+Bookstore App developed with React and Redux to display a list of books and their details
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
-###Getting Started###
-
-There are two methods for getting started with this repo.
-
-####Familiar with Git?#####
-Checkout this repo, install depdencies, then start the gulp process with the following:
+Initial boilerplate fetched from:
 
 ```
 	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
@@ -16,10 +10,3 @@ Checkout this repo, install depdencies, then start the gulp process with the fol
 	> npm start
 ```
 
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-	> npm install
-	> npm start
-```
